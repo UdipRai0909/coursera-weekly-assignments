@@ -1,2 +1,2 @@
 # coursera-weekly-assignments
-Weekly Assignments of Coursera - Algorthm and Data Structures
+Weekly Assignments of Coursera - Algorithm and Data Structures
